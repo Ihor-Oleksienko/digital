@@ -1,0 +1,25 @@
+<svg width="320" height="240" viewBox="0 0 320 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="320" height="240" fill="white"/>
+<path d="M0 12C0 5.37259 5.37258 0 12 0H308C314.627 0 320 5.37258 320 12V228C320 234.627 314.627 240 308 240H12C5.37259 240 0 234.627 0 228V12Z" fill="white"/>
+<rect width="320" height="20" fill="black"/>
+<circle cx="12" cy="10" r="4" fill="white"/>
+<circle cx="24" cy="10" r="4" fill="white"/>
+<circle cx="36" cy="10" r="4" fill="white"/>
+<path d="M12 1H308V-1H12V1ZM319 12V228H321V12H319ZM308 239H12V241H308V239ZM1 228V12H-1V228H1ZM12 239C5.92487 239 1 234.075 1 228H-1C-1 235.18 4.82031 241 12 241V239ZM319 228C319 234.075 314.075 239 308 239V241C315.18 241 321 235.18 321 228H319ZM308 1C314.075 1 319 5.92487 319 12H321C321 4.8203 315.18 -1 308 -1V1ZM12 -1C4.8203 -1 -1 4.8203 -1 12H1C1 5.92487 5.92487 1 12 1V-1Z" fill="black"/>
+<g opacity="0.2">
+<rect x="100" y="105" width="120" height="12" rx="6" fill="black"/>
+</g>
+<g opacity="0.1">
+<rect x="128" y="89" width="64" height="10" rx="5" fill="black"/>
+</g>
+<g opacity="0.2">
+<rect x="100" y="123" width="120" height="12" rx="6" fill="black"/>
+</g>
+<g opacity="0.2">
+<rect x="100" y="141" width="120" height="12" rx="6" fill="black"/>
+</g>
+<g opacity="0.8">
+<rect x="100" y="159" width="120" height="12" rx="6" fill="black"/>
+</g>
+<rect x="40.5" y="60.5" width="239" height="139" rx="11.5" stroke="black"/>
+</svg>
